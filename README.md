@@ -1,0 +1,1 @@
+I am a passionate developer specializing in finance-focused Python tools designed to streamline accounting and data extraction tasks. My latest project automates the extraction of GST numbers from multiple bills using efficient scanning and parsing techniques, saving valuable time and reducing manual errors. The tool compiles the extracted GST data
